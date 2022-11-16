@@ -1,0 +1,26 @@
+/* Agregar el color del fondo y del cuerpo de la pagina */
+html {background-color:  #ffffff}
+body {background-color: #1d3087}
+
+
+/* Agregar color y tipo de fuente a la parte inicial de la pagina */
+h1{color:#ffffff;font-family: Arial, Helvetica, sans-serif; font-size: xx-large;
+text-align: center;background-color: #000000;}
+
+/* Agregar color y tipo de fuente a la parte de la bienvenida */
+h2{color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: medium;
+text-align: center;}
+
+/* Agregar color y tipo de fuente donde va la fecha */
+footer{text-align: center; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+font-size: larger; color: #ffffff;background-color: #000000;}
+
+/* Agregar color y tipo de fuente a la parte las ligas */
+a{font-family: Arial, Helvetica, sans-serif; font-size: medium; border-width: medium; color:#ffffff}
+
+/* Agregar color a la parte de los enlaces */
+ul{background-color: #000000;}
+
+/* Agregar color y tipo de fuente a la parte de explicacion*/
+p{font-family: Arial, Helvetica, sans-serif; font-size: medium; border-width: medium;
+color:#ffffff; text-align: center;}
